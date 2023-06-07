@@ -18,7 +18,7 @@
 - Bootatrap 3
 - JavaScript
 
-### Links
+## Links
 
 - Solution URL: https://github.com/Antho137/world_population
 - Live Site URL: https://antho137.github.io/World_population/
